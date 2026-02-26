@@ -1,0 +1,9 @@
+/*
+Theme Name: WP Starter
+Description: Minimal WordPress starter theme for the wp_template.
+Version: 1.0
+*/
+
+*, *::before, *::after { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 1rem; }
+nav a { margin-right: 1rem; }
