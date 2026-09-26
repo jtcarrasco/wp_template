@@ -1,3 +1,7 @@
 wordpress/
 *.sql
 .lando/
+
+# Claude Code project config: local only, never published
+.claude/
+CLAUDE.md
